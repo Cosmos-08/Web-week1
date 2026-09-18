@@ -1,12 +1,5 @@
 body {
-    border-style: solid;
-    border-right-style: dashed;
-    border-bottom-style:dashed;
-    border-color: black;
-    border-width: 5px;
-    background-color: rgba(95, 0, 95, 0.918);
-    color: white;
-    font-family:Georgia, 'Times New Roman', Times, serif
+    background-color: rgb(0, 0, 0);
     
 }
 h3{
@@ -36,7 +29,18 @@ h2 {
 img {
     border-style:groove;
     border-color: black;
-    border-width: 3px;
-    border-radius: 4px;
-    box-shadow: 2px 2px 3px rgb(37, 0, 44);
+    border-width: 2px;
+    border-radius: 2px;
+    align-items: center;
+}
+div {
+       border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    background-color: rgba(95, 0, 95, 0.918);
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 3px 3px 3px rgb(132, 0, 158);
+    
+    
 }
