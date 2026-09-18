@@ -7,12 +7,15 @@ body {
     background-color: rgba(95, 0, 95, 0.918);
     color: white;
     font-family:Georgia, 'Times New Roman', Times, serif
+    
 }
 h3{
     color: rgb(0, 0, 0);
     font-size: 24px;
     line-height: 1;
-    text-indent: 5px;
+    text-indent: 3px;
+    text-decoration: underline;
+    text-transform:capitalize;
     
 }
 h2 {
@@ -26,6 +29,6 @@ h2 {
     word-spacing: 1px;
     line-height: 1;
     text-align:left;
-    text-indent: 5px;
+    text-indent: 8px;
     text-shadow: 1px 1px 3px rgb(37, 0, 44);
 }
