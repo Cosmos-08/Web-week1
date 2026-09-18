@@ -33,3 +33,10 @@ h2 {
     text-indent: 8px;
     text-shadow: 1px 1px 3px rgb(37, 0, 44);
 }
+img {
+    border-style:groove;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 3px rgb(37, 0, 44);
+}
