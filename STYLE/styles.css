@@ -19,5 +19,6 @@ h2 {
     font-style: italic;
     font-weight: bold;
     text-decoration: underline;
-    text-transform:capitalize
+    text-transform:capitalize;
+    letter-spacing: 1px;
 }
