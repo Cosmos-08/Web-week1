@@ -34,7 +34,7 @@ img {
     
 }
 div {
-       border-style: solid;
+    border-style: solid;
     border-color: black;
     border-width: 5px;
     background-color: rgba(95, 0, 95, 0.918);
@@ -43,6 +43,7 @@ div {
     box-shadow: 3px 3px 3px rgb(132, 0, 158);
      text-align:left;
      padding: 7px;
+     background-image: linear-gradient(to right, rgb(78, 0, 102), rgb(38, 0, 49));
      
     
 }
